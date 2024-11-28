@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1>Welcome to Ray's website</h1>
-<a href="<%= request.getContextPath() %>/login.jsp">Login Page</a>
-<a href="<%= request.getContextPath() %>/signup.jsp">Signup here</a>
+<a href="login">Login Page</a> <br> <br>
+<a href="signup">Signup here</a>
 </body>
 </html>
